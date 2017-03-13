@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://wallpaperscraft.com/image/mountain_sky_lake_summer_92505_1920x1080.jpg");
+}
+
+h1 {
+    font-family: Verdana;
+    font-size: 38px;
+    text-align: center;
+}
+
+p {
+    font-family: Arial;
+    font-size: 30px;
+}
+
+a {
+    font-size: 25px;
+    color: dodgerblue;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+

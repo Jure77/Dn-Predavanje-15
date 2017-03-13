@@ -1,0 +1,16 @@
+body {
+    background-color: dodgerblue;
+    background-image: url("https://images8.alphacoders.com/356/thumb-1920-356922.jpg")
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: Verdana;
+    color: yellow;
+}
+
+h2 {
+    margin-left: 15%;
+    color: white;
+}
